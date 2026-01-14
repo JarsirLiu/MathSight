@@ -1,0 +1,7 @@
+flask
+langchain
+pillow>=10.4.0
+requests
+python-dotenv
+openai
+langchain_openai
