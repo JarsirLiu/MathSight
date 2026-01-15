@@ -45,5 +45,8 @@ Thumbs.db
 *.bak
 *.cache
 
+# Environment variables
+.env
+
 # .codebuddy folder (project data)
 .codebuddy/
